@@ -1,6 +1,6 @@
 # Knights
 
-A program that solves some "Knights and Knaves" logic puzzles. The problems are stated as follows:
+A program that solves some "Knights and Knaves" logic puzzles. It does so by introducing the concept of *knowledge* for AI. The problems are stated as follows:
 1. Puzzle 0 is the puzzle from the Background. It contains a single character, A.
 - A says “I am both a knight and a knave.”
 2. Puzzle 1 has two characters: A and B.
